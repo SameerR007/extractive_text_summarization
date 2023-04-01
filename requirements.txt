@@ -1,4 +1,4 @@
 spacy
 spacy-lookups-data==0.0.5
 pytextrank
-python -m spacy download en_core_web_sm
+en_core_web_sm
