@@ -2,3 +2,4 @@ spacy
 spacy-lookups-data==0.0.5
 pytextrank
 en_core_web_sm
+spacy_streamlit
